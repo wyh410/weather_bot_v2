@@ -1,4 +1,4 @@
-# weather_bot
+# weather_bot_v2
 A weather bot that runs on Line platform.
 This document will show you how to set up the environment for my weather bot.
 
